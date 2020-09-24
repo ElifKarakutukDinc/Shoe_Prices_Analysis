@@ -7,8 +7,3 @@ FROM   ws_main
 GROUP  BY 1 
 ORDER  BY 3 DESC, 
           1; 
-
-SELECT Lower(prices_color) 
-FROM   ws_main 
-GROUP  BY 1 
-HAVING Lower(prices_color) LIKE 'black%'; 
