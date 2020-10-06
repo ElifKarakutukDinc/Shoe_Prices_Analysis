@@ -6,7 +6,7 @@ A list of 10,000 women's shoes and the various prices at which they are sold.
 The dataset includes shoe name, brand, price, and more. Each shoe will have an entry for each price found for it and some shoes may have multiple entries.
 
 ## Brand and Price Analysis: 
-You can check my Tableau Public page for looking dashbord about tag analysis:
+You can check my Tableau Public page for looking dashbord about brand and price  analysis:
 https://public.tableau.com/views/WomensShoesOnlineandStoreAnalysis/Online_Store?:language=en&:display_count=y&:origin=viz_share_link
 
 I asked questions that are at the below: 
